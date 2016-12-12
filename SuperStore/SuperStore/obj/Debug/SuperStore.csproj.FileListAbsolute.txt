@@ -1,0 +1,173 @@
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\ApplicationInsights.config
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\csc.exe
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\csc.exe.config
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\csc.rsp
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\csi.exe
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\csi.rsp
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\System.AppContext.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\System.Collections.Immutable.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\System.IO.FileSystem.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\vbc.exe
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\vbc.exe.config
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\vbc.rsp
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\VBCSCompiler.exe
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\roslyn\VBCSCompiler.exe.config
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\SuperStore.dll.config
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\SuperStore.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\SuperStore.pdb
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Antlr3.Runtime.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\EntityFramework.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\EntityFramework.SqlServer.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.Web.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.WindowsServer.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.ApplicationInsights.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.Security.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Newtonsoft.Json.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Owin.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Helpers.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Mvc.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Optimization.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Razor.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.WebPages.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.WebPages.Razor.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\WebGrease.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\EntityFramework.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\EntityFramework.SqlServer.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.Security.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Helpers.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Mvc.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Optimization.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.Razor.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.WebPages.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\System.Web.WebPages.Razor.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Antlr3.Runtime.pdb
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Newtonsoft.Json.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.ApplicationInsights.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.WindowsServer.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\bin\Microsoft.AI.Web.xml
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\obj\Debug\SuperStore.dll
+c:\users\samslee\documents\visual studio 2017\Projects\SuperStore\SuperStore\obj\Debug\SuperStore.pdb
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\csc.exe
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\csc.exe.config
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\csc.rsp
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\csi.exe
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\csi.rsp
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\System.AppContext.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\vbc.exe
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\vbc.exe.config
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\vbc.rsp
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\ApplicationInsights.config
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\SuperStore.dll.config
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\SuperStore.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\SuperStore.pdb
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Antlr3.Runtime.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\EntityFramework.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\EntityFramework.SqlServer.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.Web.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.Security.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Newtonsoft.Json.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Owin.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Helpers.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Mvc.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Optimization.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Razor.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.WebPages.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\WebGrease.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Antlr3.Runtime.pdb
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\EntityFramework.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\EntityFramework.SqlServer.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.Web.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.Security.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Newtonsoft.Json.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Helpers.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Mvc.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Optimization.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.Razor.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.WebPages.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\samslee\Desktop\SuperStore\SuperStore\obj\Debug\SuperStore.csprojResolveAssemblyReference.cache
+C:\Users\samslee\Desktop\SuperStore\SuperStore\obj\Debug\SuperStore.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\obj\Debug\SuperStore.pdb
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\samslee\Desktop\SuperStore\SuperStore\bin\Microsoft.ApplicationInsights.TraceListener.xml
